@@ -1,5 +1,9 @@
 {
   "pages":[
     "pages/welcome/welcome"
-  ]
+  ],
+  // 更改navigationBarBackground的背景颜色
+  "window":{
+    "navigationBarBackgroundColor": "#ECC0A8"
+  }
 }
