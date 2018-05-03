@@ -3,7 +3,7 @@
     <swiper indicator-dots='true' autoplay='true' interval='5000' circular='true' vertical=''>
       <swiper-item>
         <image src="/images/post/post-1@text.jpg"></image>
-      </swiper-item>
+       </swiper-item> 
       <swiper-item>
         <image src="/images/post/post-2@text.jpg"></image>
       </swiper-item>
